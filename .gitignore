@@ -1,0 +1,9 @@
+.idea
+/.idea
+pycache/
+db.sqlite3
+geekshop-server/db.sqlite3
+geekshop-server/venv
+.venv
+venv/
+.git
